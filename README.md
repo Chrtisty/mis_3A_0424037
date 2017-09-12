@@ -5,6 +5,6 @@
 ##### mis_3A_0424037
 ###### mis_3A_0424037
 
-第一科大 http://www.nkfust.edu.tw/bin/home.php
+第一科大:link: http://www.nkfust.edu.tw/bin/home.php
+![mis_3A_0424037](http://www.oia.nkfust.edu.tw/ezfiles/83/1083/img/2040/system-settings-icon.png)
 
-(http://github.com/0424037/mis_3A_0424037/raw/master/http://www.nkfust.edu.tw/ezfiles/0/1000/img/545/banner08.jpg)
